@@ -4,9 +4,13 @@ John Barrion
 
 Members:
 Tyron Frago
+
 Patrick Nuguid
+
 Zipporah Luna (Pamela)
+
 Jonarie Vergara
+
 Edward Apostol
 
 
