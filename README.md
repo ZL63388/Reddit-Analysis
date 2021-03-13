@@ -2,6 +2,8 @@
 Mentor:
 John Barrion
 
+
+
 Members:
 Tyron Frago
 
@@ -12,6 +14,7 @@ Zipporah Luna (Pamela)
 Jonarie Vergara
 
 Edward Apostol
+
 
 
 Link to Heroku app:
