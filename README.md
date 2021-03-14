@@ -1,22 +1,15 @@
 # Sprint4_Septic_Tank-3
-Mentor:
-John Barrion
+### Mentor: John Barrion
 
 
 
-Members:
+### Members:
 
-Tyron Frago
+* Tyron Frago
+* Patrick Nuguid
+* Zipporah Luna (Pamela)
+* Jonarie Vergara
+* Edward Apostol
 
-Patrick Nuguid
-
-Zipporah Luna (Pamela)
-
-Jonarie Vergara
-
-Edward Apostol
-
-
-
-Link to Heroku app:
-https://sprint4-team-septic-tank.herokuapp.com/
+### Link to Heroku app:
+[Analysis on Reddit Jokes](https://sprint4-team-septic-tank.herokuapp.com/)
