@@ -9,7 +9,7 @@ Tyron Frago
 
 Patrick Nuguid
 
-Zipporah Luna (Pamela)
+Zipporah Luna
 
 Jonarie Vergara
 
